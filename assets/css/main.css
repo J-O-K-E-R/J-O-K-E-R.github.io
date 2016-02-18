@@ -2495,7 +2495,7 @@
 			}
 
 			#header > header p {
-				color: #d1f1e9;
+				color: #4dace6;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2523,7 +2523,7 @@
 		}
 
 			#header > nav ul li {
-				border-top: solid 2px #4dace6;
+				border-top: solid 2px #5ccfb0;
 				display: block;
 				padding: 0;
 			}
